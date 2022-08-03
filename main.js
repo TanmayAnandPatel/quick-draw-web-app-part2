@@ -36,9 +36,9 @@ span2=timer_counter;
 console.log(span2);
 if(timer_counter>400){
     timer_counter=0;
-    timer_check=completed;
+    timer_check="completed";
 }
-if(timer_check==completed || answer_holder==set){
+if(timer_check=="completed" || answer_holder=="set"){
     timer_check="";
     answer_holder="";
     update_canvas();
