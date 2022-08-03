@@ -1,0 +1,24 @@
+body {
+background-color: greenyellow;
+}
+
+#span1,#span2{
+font-size: 25px;
+font-weight: bold;
+float: left;
+
+}
+#span2{
+    margin-left: -80px;
+    margin-top: 10px;
+ 
+}
+
+#p3{
+    color: red;
+    font-size: 25px;
+}
+
+#show_sketch{
+    float: right;
+}
